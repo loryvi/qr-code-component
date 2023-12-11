@@ -39,13 +39,13 @@ A component of a QR Code Form
 
 - I learned Semantic Html.
 - :memo: **Note:** Flexbox using display: flex;
-  - ==align-items/align-self== : flex-start, flex-end, center, baseline, stretch
-  - ==order of an item==
-  - ==justify-content== :flex-start (default), flex-end, center, space-between, space-around, space-evenly
-  - ==flex-direction== : row (default), row-reverse, column, column-reverse
-  - ==flex-wrap== : nowrap, wrap, wrap-reverse
-  - ==flex-row ==: `<flex-direction> <flex-wrap>`
-  - ==align-content== to set how multiple lines are spaced apart from each other. : flex-start, flex-end, center, space-between, space-around, stretch
+  - `align-items/align-self` : flex-start, flex-end, center, baseline, stretch
+  - `order of an item`
+  - `justify-content` : flex-start (default), flex-end, center, space-between, space-around, space-evenly
+  - `flex-direction` : row (default), row-reverse, column, column-reverse
+  - `flex-wrap` : nowrap, wrap, wrap-reverse
+  - `flex-row `: `<flex-direction> <flex-wrap>`
+  - `align-content` to set how multiple lines are spaced apart from each other. : flex-start, flex-end, center, space-between, space-around, stretch
 
 ### Continued development
 
@@ -59,5 +59,5 @@ A component of a QR Code Form
 ## Author
 
 - Website - [lory](loryvi.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@loryvi](https://www.frontendmentor.io/profile/loryvi)
 - Twitter - [@lorycodes](https://www.twitter.com/lorycodes)
