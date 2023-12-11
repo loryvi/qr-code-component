@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR Code Component Solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -20,7 +20,7 @@ A component of a QR Code Form
 
 ### Screenshot
 
-![](./screenshot.png)
+![](images/screenshot.png)
 
 ### Links
 
@@ -39,13 +39,13 @@ A component of a QR Code Form
 
 - I learned Semantic Html.
 - :memo: **Note:** Flexbox using display: flex;
-  - ===align-items/align-self=== : flex-start, flex-end, center, baseline, stretch
-  - ===order of an item===
-  - ===justify-content=== :flex-start (default), flex-end, center, space-between, space-around, space-evenly
-  - ===flex-direction=== : row (default), row-reverse, column, column-reverse
-  - ===flex-wrap=== : nowrap, wrap, wrap-reverse
-  - ===flex-row ===: `<flex-direction> <flex-wrap>`
-  - ===align-content=== to set how multiple lines are spaced apart from each other. : flex-start, flex-end, center, space-between, space-around, stretch
+  - ==align-items/align-self== : flex-start, flex-end, center, baseline, stretch
+  - ==order of an item==
+  - ==justify-content== :flex-start (default), flex-end, center, space-between, space-around, space-evenly
+  - ==flex-direction== : row (default), row-reverse, column, column-reverse
+  - ==flex-wrap== : nowrap, wrap, wrap-reverse
+  - ==flex-row ==: `<flex-direction> <flex-wrap>`
+  - ==align-content== to set how multiple lines are spaced apart from each other. : flex-start, flex-end, center, space-between, space-around, stretch
 
 ### Continued development
 
